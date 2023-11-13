@@ -34,7 +34,7 @@ I've created a comprehensive dashboard using Excel, leveraging the power of pivo
 
 ### Dashboard in Action
 
-![Dashboard Video]()
+[![Dashboard Video](Dashboard.png)](https://youtu.be/xxEgZ6vAKvk)
 
 Click on the image above to view the dashboard in action.
 
