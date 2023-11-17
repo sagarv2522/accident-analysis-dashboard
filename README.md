@@ -1,5 +1,6 @@
 # Accident Analysis Dashboard
 [![Excel](https://img.shields.io/badge/Excel-%21777BB4?style=flat-square&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
+[![Google Sheets](https://img.shields.io/badge/Google_Sheets-%231A73E8?style=flat-square&logo=google-sheets&logoColor=white)](https://www.google.com/sheets)
 
 ## Overview
 
